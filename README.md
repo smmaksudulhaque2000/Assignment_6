@@ -20,4 +20,4 @@
 
 ## Live Link
 
-[Visit Peddy - Your Path to Adoption](https://comfy-capybara-75f91d.netlify.app/)
+[Visit Peddy - Your Path to Adoption](https://fascinating-alpaca-6d3fc3.netlify.app/)
